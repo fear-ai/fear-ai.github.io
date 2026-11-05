@@ -8,6 +8,7 @@ Static editorial prototype for the Fear AI organization website, intended for **
 | `perspective/` | Newly authored editorial draft |
 | `datacenters/` | Separate electricity and environmental inquiry |
 | `sources/` | Filterable reading list and source qualifications |
+| `privacy/`, `terms/` | Short privacy notice and terms of use |
 | `assets/` | Shared styles, interactions and original SVG artwork |
 
 Preview from this directory with `python3 -m http.server 4173`, then open `http://localhost:4173`. No build step or dependencies are required. Root-relative URLs assume the organization site or custom-domain root.
