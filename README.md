@@ -24,5 +24,3 @@ Open [the local preview](http://localhost:4173/). The pages use URLs such as `/a
 Edit copy in its page’s HTML. Navigation and footer markup are repeated across the pages, so update each page when changing a shared link or label. For revised electricity figures, check the visible HTML and the `scope` values in `assets/site.js`. Keep dates, units, geographic scope, and the distinction between measurements and projections beside each figure.
 
 Before publishing, preview the changed pages at desktop and mobile widths. Check navigation, source links, filters, and scope controls. A push to `main` starts the Pages deployment. Verify the build and open the live pages after it finishes.
-
-Public citations belong on the site. Working research, earlier design studies, and internal material belong in the private [fear-ai/Dir archive](https://github.com/fear-ai/Dir).
